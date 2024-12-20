@@ -1,11 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/f3d1844ae6b25ed2014a4cc0c2c06e43791ef47db2f99aa3cc76279d0c4c80e2/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966)
+[![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
 <h1 align="center">Hi 👋, I'm Shariq Mehmood</h1>
 <h3 align="center">Transforming digital dreams into reality</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-998&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-998" /> </p>
+<p align="left"> <img src="" alt="hamza-998" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
